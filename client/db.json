@@ -3,7 +3,7 @@
     [
         {
             "id": 1,
-           "test": "nline webiner",
+           "text": "Online webiner",
             "day": "December 9th at 10:30pm",
             "reminder": true
         },
